@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+
+  h1 {
+    color: #20284A;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    margin: 0;
+    padding: 0 0 0 30px;
+  }
+
+  svg {
+      padding-right: 21px;
+  }
+}

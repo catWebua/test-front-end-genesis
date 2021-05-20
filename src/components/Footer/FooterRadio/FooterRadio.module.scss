@@ -1,0 +1,14 @@
+.FooterRadio{
+  display: flex;
+  flex-direction: column;
+  margin-top: 12px;
+  label{
+    font-size: 14px;
+    line-height: 24px;
+    color: #20284A;
+    margin-bottom: 10px;
+    input{
+      margin: 0 10px 0 0;
+    }
+  }
+}

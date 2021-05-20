@@ -1,0 +1,45 @@
+.FormDate {
+  display: flex;
+  align-items: center;
+
+  h4 {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #898EA3;
+  }
+
+  svg {
+    margin: 0 20px 0 89px;
+  }
+  .inputNumber{
+    select{
+      border: 1px solid #DFE2E6;
+      box-sizing: border-box;
+      border-radius: 4px;
+      width: 264px;
+      height: 40px;
+      margin-right: 20px;
+      padding: 0 8px 0 11px;
+      option{
+        font-size: 14px;
+        line-height: 24px;
+        color: #20284A;
+        padding: 0 0 0 16px;
+      }
+    }
+    input{
+      border: 1px solid #DFE2E6;
+      box-sizing: border-box;
+      border-radius: 4px;
+      width: 100px;
+      height: 40px;
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 24px;
+      color: #898EA3;
+      margin-right: 10px;
+      padding: 0 0 0 16px;
+    }
+  }
+}

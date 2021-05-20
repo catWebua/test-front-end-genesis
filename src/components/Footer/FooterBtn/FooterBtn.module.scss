@@ -1,0 +1,30 @@
+.FooterBtn{
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+  a{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #20284A;
+    text-decoration: none;
+    margin-right: 30px;
+  }
+  button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 170px;
+    height: 40px;
+    background: #CFD4DD;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+    border: 0;
+    svg{
+      margin-left: 10px;
+    }
+  }
+}
